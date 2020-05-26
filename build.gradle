@@ -16,7 +16,7 @@ plugins {
 
 spinnakerBundle {
   pluginId = "Armory.KubernetesCRDHandler"
-  description = "Creates a Kubernetes CRD handler"
+  description = "An example Kubernetes CRD handler"
   provider = "https://github.com/danielpeach"
   version = rootProject.version
 }
