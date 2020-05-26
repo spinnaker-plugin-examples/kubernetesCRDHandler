@@ -1,0 +1,8 @@
+apiVersion: armory.io/v1alpha1
+kind: MyCRD
+metadata:
+  name: my-great-crd
+spec:
+  key: value
+status:
+  ready: true
