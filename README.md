@@ -1,6 +1,4 @@
 ![CI](https://github.com/spinnaker-plugin-examples/kubernetesCRDHandler/workflows/CI/badge.svg)
-![Latest Kork](https://github.com/spinnaker-plugin-examples/kubernetesCRDHandler/workflows/Latest%20Kork/badge.svg?branch=master)
-![Latest Clouddriver](https://github.com/spinnaker-plugin-examples/kubernetesCRDHandler/workflows/Latest%20Clouddriver/badge.svg?branch=master)
 
 This plugin demonstrates how to create a Kubernetes CRD handler for Spinnaker. There are a few existing CRD integrations in Spinnaker,
 but none that allow you to exercise custom code when evaluating a manifest's stability.
